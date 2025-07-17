@@ -41,9 +41,7 @@
 ---
 
 ### 🤝 Connect With Me
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mazen657.Mazen657" alt="Visitors Badge" />
-</p>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/mazen-abdallah-mohamed" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -52,8 +50,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 GitHub Stats 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mazen657.Mazen657" alt="Visitors Badge" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mazen657&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mazen657&theme=tokyonight" width="48%" />
