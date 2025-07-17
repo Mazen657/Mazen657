@@ -9,10 +9,15 @@
 
 ### 👨‍💻 About Me
 
-🎓 I'm a student at the **Faculty of Computers and Information, Tanta University**.  
-🔥 Passionate about solving real-world problems using **tech + intelligence + security**.  
-🔧 I enjoy building tools, dashboards, and user-friendly interfaces.  
-🚀 Always learning — aiming to become a developer who **bridges software with secure & intelligent systems**.
+I'm a student at the Faculty of Computers and Information, Tanta University, passionate about technology and real-world problem-solving.
+Currently focusing on:
+- Frontend Web Development
+- Learning Machine Learning fundamentals
+- Embedded Systems & Embedded Linux
+- Cybersecurity and system protection
+I enjoy building useful tools, dashboards, and user-friendly interfaces. 
+Always learning — aiming to become a developer who bridges software with intelligent and secure systems.
+Let’s connect and grow together.
 
 ---
 
