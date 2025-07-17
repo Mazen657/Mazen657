@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Frontend+Developer;Embedded+Systems+Enthusiast;Machine+Learning+Explorer;Cybersecurity+Learner;Bridging+Software+with+Hardware" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mazen657.Mazen657" alt="Visitors Badge" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -45,7 +41,9 @@
 ---
 
 ### 🤝 Connect With Me
-
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mazen657.Mazen657" alt="Visitors Badge" />
+</p>
 <p align="left">
   <a href="https://www.linkedin.com/in/mazen-abdallah-mohamed" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
