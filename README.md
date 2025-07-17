@@ -51,7 +51,7 @@
 ---
 
 ### 📊 GitHub Stats 
-<p align="center">
+<p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mazen657.Mazen657" alt="Visitors Badge" />
 </p>
 <p align="center">
