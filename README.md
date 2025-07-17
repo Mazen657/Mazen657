@@ -51,9 +51,10 @@
 ---
 
 ### 📊 GitHub Stats 
-<p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mazen657.Mazen657" alt="Visitors Badge" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mazen657&label=PROFILE+VIEWS&color=8e44ad&style=for-the-badge" alt="Visitor count" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mazen657&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mazen657&theme=tokyonight" width="48%" />
