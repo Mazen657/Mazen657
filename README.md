@@ -5,20 +5,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Frontend+Developer;Embedded+Systems+Enthusiast;Machine+Learning+Explorer;Cybersecurity+Learner;Bridging+Software+with+Hardware" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mazen657.Mazen657" alt="Visitors Badge" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
 
-I'm a student at the Faculty of Computers and Information, Tanta University, passionate about technology and real-world problem-solving.
-Currently focusing on:
-- Frontend Web Development
-- Learning Machine Learning fundamentals
-- Embedded Systems & Embedded Linux
-- Cybersecurity and system protection
-
-I enjoy building useful tools, dashboards, and user-friendly interfaces. 
-Always learning — aiming to become a developer who bridges software with intelligent and secure systems.
-Let’s connect and grow together.
+🎓 I'm a student at the **Faculty of Computers and Information, Tanta University**.  
+🔥 Passionate about solving real-world problems using **tech + intelligence + security**.  
+🔧 I enjoy building tools, dashboards, and user-friendly interfaces.  
+🚀 Always learning — aiming to become a developer who **bridges software with secure & intelligent systems**.
 
 ---
 
@@ -59,8 +57,8 @@ Let’s connect and grow together.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazen-abdallah&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazen-abdallah&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mazen657&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mazen657&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -74,4 +72,3 @@ Let’s connect and grow together.
 ---
 
 > _"Let’s connect and grow together."_ 🌱
-
