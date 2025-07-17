@@ -15,6 +15,7 @@ Currently focusing on:
 - Learning Machine Learning fundamentals
 - Embedded Systems & Embedded Linux
 - Cybersecurity and system protection
+
 I enjoy building useful tools, dashboards, and user-friendly interfaces. 
 Always learning — aiming to become a developer who bridges software with intelligent and secure systems.
 Let’s connect and grow together.
