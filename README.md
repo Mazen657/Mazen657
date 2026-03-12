@@ -133,7 +133,7 @@
 
 <br/><br/>
 
-> *"The best way to predict the future is to create it."* — Peter Drucker
+> *"If you can't reach perfection, get closer to it."* — Mazen Abdallah
 
 <br/>
 
