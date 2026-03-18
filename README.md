@@ -78,24 +78,68 @@
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 <div align="center">
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
 
-| 🗂️ Project | 📝 Description | 🔗 Link |
-|:---|:---|:---:|
-| ⚡ **Prime_Edge** | High-performance edge computing project | [View →](https://github.com/Mazen657/Prime_Edge) |
-| 🧠 **NeuroLearn Landing** | AI-powered learning platform landing page | [View →](https://github.com/Mazen657/neurolearn_landing) |
-| 🌐 **Portfolio** | Personal developer portfolio website | [View →](https://mazen657.github.io/Portfolio/) |
-| 🏓 **Ping Pong** | Classic ping pong game implementation | [View →](https://github.com/Mazen657/ping_pong) |
-| 📊 **Spotify Dataset NTI** | Data analysis on Spotify dataset using ML | [View →](https://github.com/Mhmd-sh3rawy/Spotify_dataset_NTI) |
-| 📚 **E-Library** | Digital library management system | [View →](https://github.com/Mazen657/E-Library) |
+<td align="center" valign="top">
+<details open>
+<summary>🌐 Web</summary>
 
+### 🌐 Portfolio
+> Personal developer portfolio
+⭐ | [View →](https://mazen657.github.io/Portfolio/)
+
+### 🧠 NeuroLearn Landing
+> AI-powered learning platform
+⭐ | [View →](https://github.com/Mazen657/neurolearn_landing)
+
+### ⚡ Prime_Edge
+> High-performance edge computing
+⭐ | [View →](https://github.com/Mazen657/Prime_Edge)
+</details>
+</td>
+
+<td align="center" valign="top">
+<details open>
+<summary>💻 App</summary>
+
+### 📚 E-Library
+> Digital library management system
+⭐ | [View →](https://github.com/Mazen657/E-Library)
+
+</details>
+</td>
+
+<td align="center" valign="top">
+<details open>
+<summary>🎮 Games</summary>
+
+### 🏓 Ping Pong
+> Classic ping pong game
+⭐ | [View →](https://github.com/Mazen657/ping_pong)
+
+</details>
+</td>
+
+<td align="center" valign="top">
+<details open>
+<summary>🧠 AI</summary>
+
+### 📊 Spotify Dataset NTI
+> Data analysis using ML
+⭐ | [View →](https://github.com/Mhmd-sh3rawy/Spotify_dataset_NTI)
+
+</details>
+</td>
+
+</tr>
+</table>
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
