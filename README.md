@@ -132,6 +132,10 @@
 > Data analysis using ML
 ⭐ | [View →](https://github.com/Mhmd-sh3rawy/Spotify_dataset_NTI)
 
+### 🤖 Student Burnout Predictor
+> ML Models
+⭐ | [View →](https://github.com/Mazen657/Student-Burnout-Predictor)
+
 </details>
 </td>
 
