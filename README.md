@@ -110,6 +110,10 @@
 > Digital library management system
 ⭐ | [View →](https://github.com/Mazen657/E-Library)
 
+
+### 📝 SNote
+> Private Encrypted Notes
+⭐ | [View →](https://github.com/Mazen657/SNote)
 </details>
 </td>
 
